@@ -1,0 +1,57 @@
+#menu {
+
+
+.navbar{
+	padding-top:40px;
+	background-color:#003c5a;	
+}
+
+
+.navbar-brand{
+	font-size:30px;
+	color:#edf4f8;
+	font-family: 'Merriweather', serif;
+	font-weight:700;
+	padding-left:100px;
+
+}
+
+.navbar-contact {
+	a:hover {
+    color: #fc8f44;
+    }
+}
+
+.navbar-nom {
+	padding-right:100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight:700;
+    text-decoration:none;
+    font-size:20px;
+
+    }
+
+.navbar-nav {
+
+	a {
+	font-size:16px;
+	color: transparent;
+	color: #2379a3;	
+	font-family: "Open Sans", sans-serif;
+	font-weight:300; 
+	padding-left:40px;
+	}
+
+li.active a {
+	color:white;
+}
+
+	a:hover{
+		color: white;
+		transition: 0.5s all linear;
+	}
+
+}
+
+}

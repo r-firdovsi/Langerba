@@ -1,0 +1,1053 @@
+#menu .navbar {
+  padding-top: 40px;
+  background-color: #003c5a; }
+#menu .navbar-brand {
+  font-size: 30px;
+  color: #edf4f8;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  padding-left: 100px; }
+#menu .navbar-contact a:hover {
+  color: #fc8f44; }
+#menu .navbar-nom {
+  padding-right: 100px;
+  color: #edf4f8;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 20px; }
+#menu .navbar-nav a {
+  font-size: 16px;
+  color: transparent;
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-left: 40px; }
+#menu .navbar-nav li.active a {
+  color: white; }
+#menu .navbar-nav a:hover {
+  color: white;
+  transition: 0.5s all linear; }
+
+#aboutus {
+  padding-top: 180px;
+  padding-bottom: 50px;
+  background: #edf4f8; }
+  #aboutus img {
+    float: left; }
+  #aboutus h2 {
+    padding-top: 50px;
+    color: #252525;
+    font-size: 47px;
+    font-weight: italic;
+    font-family: "Merriweather", serif;
+    text-align: left;
+    padding-bottom: 35px; }
+  #aboutus h3 {
+    color: #555555;
+    font-size: 33px;
+    font-weight: italic;
+    font-family: "Merriweather", serif;
+    text-align: left;
+    padding-bottom: 35px; }
+  #aboutus p {
+    font-size: 17px;
+    color: #B6B9BB;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 30px; }
+  #aboutus .btn {
+    width: 230px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: inline-block;
+    transition: 0.5s all linear; }
+  #aboutus button:hover {
+    color: #fff;
+    background: #f9a870; }
+
+#communication {
+  padding: 80px 0; }
+  #communication h2 {
+    text-align: center;
+    color: #252525;
+    font-size: 55px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #communication img {
+    padding-top: 40px; }
+  #communication p {
+    padding-top: 25px;
+    font-size: 15px;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 25px; }
+
+#languagecenter {
+  padding: 100px 0;
+  background: #edf4f8; }
+  #languagecenter img {
+    float: right; }
+  #languagecenter h2 {
+    color: #252525;
+    font-size: 47px;
+    font-weight: italic;
+    font-family: "Merriweather", serif;
+    text-align: left;
+    padding-bottom: 35px; }
+  #languagecenter .langp {
+    font-weight: bold; }
+  #languagecenter p {
+    font-size: 17px;
+    color: #B6B9BB;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 25px; }
+
+#team {
+  background: #003c5a;
+  padding: 60px 0; }
+  #team h1 {
+    color: white;
+    font-size: 55px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #team img {
+    padding-top: 40px; }
+  #team h2 {
+    padding-top: 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700; }
+  #team p {
+    color: white;
+    font-size: 15px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-top: 5px; }
+
+#teaching {
+  padding: 60px 0;
+  background: #e76e33; }
+  #teaching h1 {
+    color: white;
+    font-size: 45px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #teaching h2 {
+    padding-top: 40px;
+    color: white;
+    font-size: 25px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300; }
+  #teaching p {
+    color: #F6E8F2;
+    padding-top: 15px;
+    line-height: 25px; }
+  #teaching .btn {
+    width: 170px;
+    height: 50px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 50px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    display: inline-block;
+    transition: 0.1s all linear; }
+  #teaching button:hover {
+    color: #e76e33;
+    background: white; }
+
+#footer {
+  background-color: #272727; }
+  #footer .navbar {
+    padding-top: 60px;
+    background-color: #272727; }
+  #footer .navbar-brand {
+    font-size: 30px;
+    color: #edf4f8;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding-left: 100px;
+    float: left; }
+  #footer .navbar-contact a:hover {
+    color: #fc8f44; }
+  #footer .navbar-nom {
+    padding-right: 100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px; }
+    #footer .navbar-nom i {
+      color: #7D7D7D;
+      letter-spacing: 8px; }
+    #footer .navbar-nom i:hover {
+      color: #f08237; }
+  #footer p {
+    color: #7D7D7D; }
+  #footer .navbar-nav a {
+    font-size: 16px;
+    color: transparent;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-left: 40px; }
+  #footer .navbar-nav li.active a {
+    color: white; }
+  #footer .navbar-nav a:hover {
+    color: white;
+    transition: 0.5s all linear; }
+
+#menu .navbar {
+  padding-top: 40px;
+  background-color: #003c5a; }
+#menu .navbar-brand {
+  font-size: 30px;
+  color: #edf4f8;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  padding-left: 100px; }
+#menu .navbar-contact a:hover {
+  color: #fc8f44; }
+#menu .navbar-nom {
+  padding-right: 100px;
+  color: #edf4f8;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 20px; }
+#menu .navbar-nav a {
+  font-size: 16px;
+  color: transparent;
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-left: 40px; }
+#menu .navbar-nav li.active a {
+  color: white; }
+#menu .navbar-nav a:hover {
+  color: white;
+  transition: 0.5s all linear; }
+
+#programs {
+  padding-top: 205px;
+  background: #edf4f8;
+  padding-bottom: 45px; }
+  #programs h1 {
+    color: #252525;
+    font-size: 47px;
+    font-weight: italic;
+    font-family: "Merriweather", serif;
+    text-align: left;
+    padding-bottom: 35px; }
+  #programs h2 {
+    color: #555555;
+    font-size: 35px;
+    font-weight: italic;
+    font-family: "Merriweather", serif;
+    text-align: left;
+    padding-bottom: 35px; }
+  #programs p {
+    font-size: 17px;
+    color: #B6B9BB;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 30px; }
+  #programs a {
+    text-decoration: none;
+    color: #7D7D7D;
+    line-height: 35px; }
+  #programs a:hover {
+    color: #f08237; }
+  #programs .list1, #programs .list2 {
+    display: inline-block; }
+  #programs .list2 {
+    margin-left: 140px; }
+
+#experince {
+  padding: 80px 0; }
+  #experince h1 {
+    text-align: center;
+    color: #252525;
+    font-size: 55px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #experince h2 {
+    color: #555555;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.45;
+    font-family: "Merriweather", serif; }
+  #experince p {
+    font-size: 17px;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 22px; }
+  #experince img {
+    float: left; }
+  #experince .row:nth-child(2) {
+    padding-top: 50px; }
+  #experince .row:nth-child(3) {
+    padding-top: 20px; }
+
+#othercourse {
+  padding: 80px 0;
+  background: #003c5a; }
+  #othercourse h1 {
+    text-align: center;
+    color: white;
+    font-size: 55px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #othercourse h2 {
+    color: white;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 1.45;
+    font-family: "Merriweather", serif; }
+  #othercourse p {
+    font-size: 17px;
+    color: #66b8e0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0.5px; }
+  #othercourse i {
+    color: #fc8f44; }
+  #othercourse .row:nth-child(2) {
+    padding-top: 45px; }
+  #othercourse .row:nth-child(3) {
+    padding-top: 20px; }
+
+#footer {
+  background-color: #272727; }
+  #footer .navbar {
+    padding-top: 60px;
+    background-color: #272727; }
+  #footer .navbar-brand {
+    font-size: 30px;
+    color: #edf4f8;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding-left: 100px;
+    float: left; }
+  #footer .navbar-contact a:hover {
+    color: #fc8f44; }
+  #footer .navbar-nom {
+    padding-right: 100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px; }
+    #footer .navbar-nom i {
+      color: #7D7D7D;
+      letter-spacing: 8px; }
+    #footer .navbar-nom i:hover {
+      color: #f08237; }
+  #footer p {
+    color: #7D7D7D; }
+  #footer .navbar-nav a {
+    font-size: 16px;
+    color: transparent;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-left: 40px; }
+  #footer .navbar-nav li.active a {
+    color: white; }
+  #footer .navbar-nav a:hover {
+    color: white;
+    transition: 0.5s all linear; }
+
+#menu .navbar {
+  padding-top: 40px;
+  background-color: #003c5a; }
+#menu .navbar-brand {
+  font-size: 30px;
+  color: #edf4f8;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  padding-left: 100px; }
+#menu .navbar-contact a:hover {
+  color: #fc8f44; }
+#menu .navbar-nom {
+  padding-right: 100px;
+  color: #edf4f8;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 20px; }
+#menu .navbar-nav a {
+  font-size: 16px;
+  color: transparent;
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-left: 40px; }
+#menu .navbar-nav li.active a {
+  color: white; }
+#menu .navbar-nav a:hover {
+  color: white;
+  transition: 0.5s all linear; }
+
+#gallery {
+  padding-top: 210px;
+  background: #edf4f8;
+  padding-bottom: 60px; }
+  #gallery h1 {
+    font-size: 55px;
+    font-weight: 300;
+    font-family: "Merriweather", serif;
+    padding-bottom: 60px; }
+  #gallery h4 {
+    position: absolute;
+    color: white;
+    text-align: left;
+    font-size: 28px;
+    padding-top: 100px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #gallery .btn {
+    width: 170px;
+    height: 50px;
+    background: transparent;
+    border: 3px solid white;
+    border-radius: 50px;
+    font-size: 17px;
+    letter-spacing: 1px;
+    transition: 0.1s all linear;
+    position: relative;
+    margin-top: 200px;
+    float: left; }
+  #gallery button:hover {
+    color: #e76e33;
+    background: white; }
+  #gallery .gallery-row {
+    color: white;
+    font-size: 15px;
+    text-align: center; }
+  #gallery .gallery-row:first-child {
+    background: url("..//..//images/gallery1.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row:nth-child(2) {
+    background: url("..//..//images/gallery2.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row:nth-child(3) {
+    background: url("..//..//images/gallery3.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .col-md-4:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6); }
+  #gallery .gallery-row:hover {
+    background-size: 105%; }
+  #gallery .gallery-row2 {
+    color: white;
+    font-size: 15px;
+    text-align: center; }
+  #gallery .gallery-row2:first-child {
+    background: url("..//..//images/gallery4.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row2:nth-child(2) {
+    background: url("..//..//images/gallery5.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row2:nth-child(3) {
+    background: url("..//..//images/gallery6.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row2:hover {
+    background-size: 105%; }
+  #gallery .gallery-row3 {
+    color: white;
+    font-size: 15px;
+    text-align: center; }
+  #gallery .gallery-row3:first-child {
+    background: url("..//..//images/gallery7.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row3:nth-child(2) {
+    background: url("..//..//images/gallery8.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row3:nth-child(3) {
+    background: url("..//..//images/gallery9.jpg");
+    height: 350px;
+    background-size: cover; }
+  #gallery .gallery-row3:hover {
+    background-size: 105%; }
+
+#lastnews {
+  padding: 60px 0; }
+  #lastnews h1 {
+    text-align: center;
+    color: #252525;
+    font-size: 50px;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #lastnews h5 {
+    color: #f08237;
+    font-size: 16px;
+    padding-top: 35px;
+    letter-spacing: 0.3px; }
+  #lastnews h4 {
+    color: #555555;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 1.45;
+    font-family: "Merriweather", serif; }
+  #lastnews p {
+    font-size: 15px;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+    padding-top: 15px; }
+  #lastnews .btn {
+    width: 180px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: 0.5s all linear; }
+  #lastnews button:hover {
+    color: #fff;
+    background: #f9a870; }
+
+#lastphoto {
+  padding: 60px 0;
+  background: #e76e33; }
+  #lastphoto h1 {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 300;
+    font-family: "Merriweather", serif;
+    padding-bottom: 40px; }
+  #lastphoto .imgBox:first-child {
+    background: url("..//..//images/cardimages3.jpg") no-repeat;
+    height: 300px;
+    background-size: cover; }
+  #lastphoto .imgBox:nth-child(2) {
+    background: url("..//..//images/cardimages2.jpg") no-repeat;
+    height: 300px;
+    background-size: cover; }
+  #lastphoto .imgBox:nth-child(3) {
+    background: url("..//..//images/cardimages1.jpg") no-repeat;
+    height: 300px;
+    background-size: cover; }
+  #lastphoto .imgBox:hover {
+    background-size: 120%; }
+
+#footer {
+  background-color: #272727; }
+  #footer .navbar {
+    padding-top: 60px;
+    background-color: #272727; }
+  #footer .navbar-brand {
+    font-size: 30px;
+    color: #edf4f8;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding-left: 100px;
+    float: left; }
+  #footer .navbar-contact a:hover {
+    color: #fc8f44; }
+  #footer .navbar-nom {
+    padding-right: 100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px; }
+    #footer .navbar-nom i {
+      color: #7D7D7D;
+      letter-spacing: 8px; }
+    #footer .navbar-nom i:hover {
+      color: #f08237; }
+  #footer p {
+    color: #7D7D7D; }
+  #footer .navbar-nav a {
+    font-size: 16px;
+    color: transparent;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-left: 40px; }
+  #footer .navbar-nav li.active a {
+    color: white; }
+  #footer .navbar-nav a:hover {
+    color: white;
+    transition: 0.5s all linear; }
+
+#menu .navbar {
+  padding-top: 40px;
+  background-color: #003c5a; }
+#menu .navbar-brand {
+  font-size: 30px;
+  color: #edf4f8;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  padding-left: 100px; }
+#menu .navbar-contact a:hover {
+  color: #fc8f44; }
+#menu .navbar-nom {
+  padding-right: 100px;
+  color: #edf4f8;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 20px; }
+#menu .navbar-nav a {
+  font-size: 16px;
+  color: transparent;
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-left: 40px; }
+#menu .navbar-nav li.active a {
+  color: white; }
+#menu .navbar-nav a:hover {
+  color: white;
+  transition: 0.5s all linear; }
+
+#contact {
+  padding-top: 200px;
+  background: #edf4f8;
+  padding-bottom: 80px; }
+  #contact h1 {
+    font-size: 50px;
+    font-weight: 300;
+    font-family: "Merriweather", serif;
+    padding-bottom: 60px; }
+  #contact input {
+    width: 100%;
+    height: 50px;
+    border-style: none;
+    border-radius: 50px;
+    padding-left: 20px;
+    display: inline-block;
+    margin-bottom: 20px;
+    color: #BCBCBC;
+    font-weight: bold; }
+  #contact textarea {
+    width: 100%;
+    height: 210px;
+    border-style: none;
+    border-radius: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: inline-block;
+    color: #BCBCBC;
+    font-weight: bold; }
+  #contact .btn {
+    width: 180px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: 0.5s all linear;
+    margin-top: 20px; }
+  #contact button:hover {
+    color: #fff;
+    background: #f9a870; }
+
+#map {
+  padding: 100px 0;
+  background: url("..//..//images/map.jpg") no-repeat;
+  background-size: cover;
+  height: 500px; }
+  #map .col-md-4 {
+    background: #e76e33;
+    padding-top: 30px;
+    padding-bottom: 30px; }
+  #map h2 {
+    padding-top: 30px;
+    color: white;
+    font-weight: 300;
+    font-family: "Merriweather", serif;
+    font-size: 35px;
+    letter-spacing: 0.3px;
+    padding-left: 20px; }
+  #map h3 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: #FEF8F5;
+    font-size: 17px;
+    line-height: 28px;
+    padding-left: 20px; }
+  #map h4 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: #FEF8F5;
+    font-size: 16px;
+    padding-left: 20px;
+    display: inline-block;
+    padding-top: 25px; }
+  #map h5 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: #FEF8F5;
+    font-size: 16px;
+    padding-left: 20px;
+    display: inline-block;
+    padding-top: 25px; }
+  #map p {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    color: #FEF8F5;
+    font-size: 16px;
+    padding-top: 40px; }
+  #map a {
+    text-decoration: none;
+    color: #FEF8F5; }
+  #map a:hover {
+    color: #f08237; }
+
+#footer {
+  background-color: #272727; }
+  #footer .navbar {
+    padding-top: 60px;
+    background-color: #272727; }
+  #footer .navbar-brand {
+    font-size: 30px;
+    color: #edf4f8;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding-left: 100px;
+    float: left; }
+  #footer .navbar-contact a:hover {
+    color: #fc8f44; }
+  #footer .navbar-nom {
+    padding-right: 100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px; }
+    #footer .navbar-nom i {
+      color: #7D7D7D;
+      letter-spacing: 8px; }
+    #footer .navbar-nom i:hover {
+      color: #f08237; }
+  #footer p {
+    color: #7D7D7D; }
+  #footer .navbar-nav a {
+    font-size: 16px;
+    color: transparent;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-left: 40px; }
+  #footer .navbar-nav li.active a {
+    color: white; }
+  #footer .navbar-nav a:hover {
+    color: white;
+    transition: 0.5s all linear; }
+
+#menu .navbar {
+  padding-top: 40px;
+  background-color: #003c5a; }
+#menu .navbar-brand {
+  font-size: 30px;
+  color: #edf4f8;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  padding-left: 100px; }
+#menu .navbar-contact a:hover {
+  color: #fc8f44; }
+#menu .navbar-nom {
+  padding-right: 100px;
+  color: #edf4f8;
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  text-decoration: none;
+  font-size: 20px; }
+#menu .navbar-nav a {
+  font-size: 16px;
+  color: transparent;
+  color: #2379a3;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  padding-left: 40px; }
+#menu .navbar-nav li.active a {
+  color: white; }
+#menu .navbar-nav a:hover {
+  color: white;
+  transition: 0.5s all linear; }
+
+#cover {
+  height: 900px;
+  background: url("../images/cover.png");
+  background-position: 50% 100%;
+  background-repeat: no-repeat;
+  background-color: #003c5a; }
+  #cover h1 {
+    padding-top: 270px;
+    color: white;
+    font-size: 60px;
+    letter-spacing: 1px;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    padding-bottom: 15px; }
+  #cover p {
+    color: #66b8e0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: .8px;
+    padding-bottom: 15px; }
+  #cover .btn {
+    width: 230px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: 0.5s all linear; }
+  #cover button:hover {
+    color: #fff;
+    background: #f9a870; }
+
+#firstpromotion {
+  padding-top: 80px;
+  background: #edf4f8; }
+  #firstpromotion h2, #firstpromotion h3 {
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #firstpromotion h2 {
+    font-size: 45px;
+    color: #252525;
+    display: inline-block;
+    text-align: left; }
+  #firstpromotion h3 {
+    color: #555555;
+    font-size: 38px;
+    text-align: left;
+    padding-top: 10px;
+    text-align: left; }
+  #firstpromotion p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #B6B9BB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 450px;
+    text-align: left; }
+  #firstpromotion .btn {
+    width: 230px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: inline-block;
+    transition: 0.5s all linear; }
+  #firstpromotion button:hover {
+    color: #fff;
+    background: #f9a870; }
+  #firstpromotion img {
+    display: inline-block;
+    float: right;
+    padding-top: 60px;
+    padding-bottom: 0px; }
+
+#secondcontent {
+  padding: 80px 0; }
+  #secondcontent h4 {
+    color: #252525;
+    font-size: 50px;
+    line-height: 1.55;
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #secondcontent i {
+    color: #fc8f44;
+    padding-top: 45px; }
+  #secondcontent h5 {
+    color: #555555;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 1.45;
+    font-family: "Merriweather", serif;
+    padding-top: 45px; }
+  #secondcontent p {
+    color: #7d7d7d;
+    font-size: 16px;
+    line-height: 1.7;
+    margin-top: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300; }
+
+#secondpromotion {
+  padding: 65px 0;
+  background: #edf4f8; }
+  #secondpromotion img {
+    float: left; }
+  #secondpromotion h2, #secondpromotion h3 {
+    font-weight: 300;
+    font-family: "Merriweather", serif; }
+  #secondpromotion h2 {
+    font-size: 45px;
+    color: #252525;
+    display: inline-block;
+    text-align: left; }
+  #secondpromotion h3 {
+    color: #555555;
+    font-size: 38px;
+    text-align: left;
+    padding-top: 10px;
+    text-align: left; }
+  #secondpromotion p {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #B6B9BB;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 450px;
+    text-align: left; }
+
+#subscripe {
+  background-color: #003c5a;
+  padding: 80px 0; }
+  #subscripe h1 {
+    color: white;
+    font-size: 45px;
+    letter-spacing: 1px;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    padding-bottom: 15px; }
+  #subscripe p {
+    color: #66b8e0;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.33;
+    letter-spacing: .8px;
+    padding-bottom: 15px; }
+  #subscripe input {
+    width: 470px;
+    height: 50px;
+    border-style: none;
+    border-radius: 50px;
+    padding-left: 20px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 175px; }
+  #subscripe .btn {
+    width: 265px;
+    height: 50px;
+    background-color: #f08237;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 17px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    display: inline-block;
+    margin-left: 30px;
+    transition: 0.5s all linear; }
+  #subscripe button:hover {
+    color: #fff;
+    background: #f9a870; }
+
+#studentcomment {
+  background-color: #e76e33;
+  padding: 60px 0; }
+  #studentcomment h1 {
+    color: white;
+    font-size: 45px;
+    letter-spacing: 1px;
+    font-family: "Merriweather", serif;
+    font-weight: 300; }
+  #studentcomment i {
+    padding: 25px 0;
+    color: #F38B59; }
+  #studentcomment p {
+    color: white;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.33;
+    letter-spacing: .8px;
+    padding-bottom: 15px;
+    text-align: center;
+    line-height: 40px; }
+  #studentcomment .aouthor {
+    font-weight: bold;
+    font-size: 15px; }
+
+#footer {
+  background-color: #272727; }
+  #footer .navbar {
+    padding-top: 60px;
+    background-color: #272727; }
+  #footer .navbar-brand {
+    font-size: 30px;
+    color: #edf4f8;
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    padding-left: 100px;
+    float: left; }
+  #footer .navbar-contact a:hover {
+    color: #fc8f44; }
+  #footer .navbar-nom {
+    padding-right: 100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 20px; }
+    #footer .navbar-nom i {
+      color: #7D7D7D;
+      letter-spacing: 8px; }
+    #footer .navbar-nom i:hover {
+      color: #f08237; }
+  #footer p {
+    color: #7D7D7D; }
+  #footer .navbar-nav a {
+    font-size: 16px;
+    color: transparent;
+    color: #7D7D7D;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    padding-left: 40px; }
+  #footer .navbar-nav li.active a {
+    color: white; }
+  #footer .navbar-nav a:hover {
+    color: white;
+    transition: 0.5s all linear; }
+
+/*# sourceMappingURL=style.css.map */

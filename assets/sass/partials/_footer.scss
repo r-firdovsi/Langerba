@@ -1,0 +1,74 @@
+#footer {
+
+background-color:#272727;
+
+.navbar{
+	padding-top:60px;
+	background-color:#272727;	
+}
+
+
+.navbar-brand{
+	font-size:30px;
+	color:#edf4f8;
+	font-family: 'Merriweather', serif;
+	font-weight:700;
+	padding-left:100px;
+	float:left;
+
+}
+
+.navbar-contact {
+	a:hover {
+    color: #fc8f44;
+    }
+}
+
+.navbar-nom {
+	padding-right:100px;
+    color: #edf4f8;
+    font-family: "Merriweather", serif;
+    font-weight:700;
+    text-decoration:none;
+    font-size:20px;
+
+    i {
+    	color: #7D7D7D;
+    	letter-spacing:8px;
+    }
+
+    i:hover {
+    	color:$buttoncolor;
+    }
+
+    }
+
+
+    p {
+    	color:#7D7D7D;
+    }
+
+.navbar-nav {
+
+	a {
+	font-size:16px;
+	color: transparent;
+	color: #7D7D7D;	
+	font-family: "Open Sans", sans-serif;
+	font-weight:300; 
+	padding-left:40px;
+
+	}
+
+li.active a {
+	color:white;
+}
+
+	a:hover{
+		color: white;
+		transition: 0.5s all linear;
+	}
+
+}
+
+}

@@ -732,6 +732,7 @@
     color: #f08237; }
 
 #footer {
+  overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
     padding-top: 60px;

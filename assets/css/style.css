@@ -165,6 +165,7 @@
     background: white; }
 
 #footer {
+  overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
     padding-top: 60px;
@@ -328,6 +329,7 @@
     padding-top: 20px; }
 
 #footer {
+  overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
     padding-top: 60px;
@@ -563,6 +565,7 @@
     background-size: 120%; }
 
 #footer {
+  overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
     padding-top: 60px;
@@ -732,6 +735,7 @@
     color: #f08237; }
 
 #footer {
+  overflow: hidden;
   overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
@@ -1011,6 +1015,7 @@
     font-size: 15px; }
 
 #footer {
+  overflow: hidden;
   background-color: #272727; }
   #footer .navbar {
     padding-top: 60px;
